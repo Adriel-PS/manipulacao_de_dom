@@ -13,7 +13,7 @@ body {
     background-position: center center;
     background-size: cover cover;
     padding: 0;
-    margin: 0;
+    margin: 0 10px 0 0;
     font-weight: 300;
 }
 
@@ -33,7 +33,7 @@ main {
     background: url(../img/estrutura.png) no-repeat;
     background-position: center center;
     margin: 0;
-    flex-basis: 40%;
+    flex-basis: 45%;
     position: relative;
 }
 
@@ -72,7 +72,7 @@ main {
 }
 
 .montador {
-    height: 100%;;
+    height: 100%;
 }
 
 .montador-conteudo {
